@@ -1,0 +1,2 @@
+user: ubuntuuser
+password: ubuntu
