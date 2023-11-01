@@ -1,2 +1,0 @@
-user: ubuntuuser
-password: ubuntu
