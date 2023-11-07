@@ -1,17 +1,16 @@
 ### Info
-```bash
-username: ubuntuuser
-password: ubuntu
+on windows you can use follow command to combine files to one tar.gz
 ```
-### project structure
-```bash
 $ tree ./businesschatbotmodels
 ./
 ├── readme.md
-└── Ubuntu 64-bit.zip
-└── Ubuntu 64-bit.z01
-└── Ubuntu 64-bit.z02
+└── aocl.tar.gz.aa
+└── aocl.tar.gz.ab
+└── aocl.tar.gz.ac
  ...
-└── Ubuntu 64-bit.z11
-└── Ubuntu 64-bit.z12
+└── aocl.tar.gz.bl
+└── aocl.tar.gz.bm
+
+
+$ copy /b ./aocl.tar.gz.* aocl.tar.gz
 ```
